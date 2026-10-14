@@ -25,3 +25,16 @@ with open("Pokemon.csv", "r") as f:
 
     print(Most_Used_Pokemon(BigList))
 
+    def Most_Used_Move(data: list[list[str]]) -> str:
+        Nosferatu = 0
+        Splash = ""
+        LotsOfCounters = {}
+        for (Pokemon1, Pokemon2, Move, Rating1, Rating2, ID) in data:
+            LotsOfCounters[Move] = LotsOfCounters.get(Move, 0) + 1
+        for move, count in LotsOfCounters.items():
+            if count > Nosferatu:
+                Nosferatu = count
+                Splash = move
+        return Splash
+
+    print(Most_Used_Move(BigList))
