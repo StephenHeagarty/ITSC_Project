@@ -1,0 +1,150 @@
+{
+  "schema_version": "1.0.0",
+  "battle_id": "gen9randombattle-2400091099",
+  "format_id": "gen9randombattle",
+  "metadata": {
+    "timestamp_unix": 1752123089,
+    "total_turns": 1,
+    "outcome": {
+      "result": "win",
+      "winner": "p1",
+      "reason": "all_fainted"
+    }
+  },
+  "players": {
+    "p1": {
+      "name": "ujbij7",
+      "ladder_rating_pre": 1149,
+      "ladder_rating_change": null
+    },
+    "p2": {
+      "name": "femboymaster69",
+      "ladder_rating_pre": 1164,
+      "ladder_rating_change": null
+    }
+  },
+  "team_revelation": {
+    "format_type": "random_battle",
+    "revelation_pattern": "progressive",
+    "teams_fully_revealed": false,
+    "teams": {
+      "p1": [
+        {
+          "pokemon_uid": "p1-0",
+          "species": "Miraidon",
+          "nickname": null,
+          "level": 65,
+          "gender": null,
+          "first_seen_turn": 1,
+          "revelation_status": "partially_revealed",
+          "known_ability": null,
+          "known_item": null,
+          "known_tera_type": null,
+          "base_stats": {
+            "hp": 238,
+            "attack": null,
+            "defense": null,
+            "sp_attack": null,
+            "sp_defense": null,
+            "speed": null
+          },
+          "known_moves": [],
+          "unknown_move_slots": 4
+        }
+      ],
+      "p2": [
+        {
+          "pokemon_uid": "p2-0",
+          "species": "Mismagius",
+          "nickname": null,
+          "level": 86,
+          "gender": "F",
+          "first_seen_turn": 1,
+          "revelation_status": "partially_revealed",
+          "known_ability": null,
+          "known_item": null,
+          "known_tera_type": null,
+          "base_stats": {
+            "hp": 243,
+            "attack": null,
+            "defense": null,
+            "sp_attack": null,
+            "sp_defense": null,
+            "speed": null
+          },
+          "known_moves": [],
+          "unknown_move_slots": 4
+        }
+      ]
+    },
+    "team_size": {
+      "p1": {
+        "known": 1,
+        "assumed_total": 6,
+        "confirmed": false
+      },
+      "p2": {
+        "known": 1,
+        "assumed_total": 6,
+        "confirmed": false
+      }
+    }
+  },
+  "turns": [
+    {
+      "turn_number": 1,
+      "events": [
+        {
+          "seq": 0,
+          "type": "effect",
+          "effect_type": "message",
+          "raw_parts": [
+            "-message",
+            "femboymaster69 forfeited."
+          ]
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    }
+  ],
+  "summary": {
+    "pokemon_used": {
+      "p1": [
+        "p1-0"
+      ],
+      "p2": [
+        "p2-0"
+      ]
+    },
+    "fainted_order": {
+      "p1": [],
+      "p2": []
+    },
+    "major_events": null
+  },
+  "integrity": {
+    "validated": true,
+    "issues": [],
+    "sha256_raw_log": "942b70bb8b5e07fa15b61392541b41d1",
+    "generation_time_ms": 0
+  }
+}

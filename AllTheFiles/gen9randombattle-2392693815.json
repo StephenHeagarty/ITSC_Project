@@ -1,0 +1,510 @@
+{
+  "schema_version": "1.0.0",
+  "battle_id": "gen9randombattle-2392693815",
+  "format_id": "gen9randombattle",
+  "metadata": {
+    "timestamp_unix": 1751032253,
+    "total_turns": 6,
+    "outcome": {
+      "result": "win",
+      "winner": "p1",
+      "reason": "all_fainted"
+    }
+  },
+  "players": {
+    "p1": {
+      "name": "rufk_",
+      "ladder_rating_pre": 1444,
+      "ladder_rating_change": null
+    },
+    "p2": {
+      "name": "xDragonessa",
+      "ladder_rating_pre": 1452,
+      "ladder_rating_change": null
+    }
+  },
+  "team_revelation": {
+    "format_type": "random_battle",
+    "revelation_pattern": "progressive",
+    "teams_fully_revealed": false,
+    "teams": {
+      "p1": [
+        {
+          "pokemon_uid": "p1-0",
+          "species": "Darkrai",
+          "nickname": null,
+          "level": 77,
+          "gender": null,
+          "first_seen_turn": 1,
+          "revelation_status": "partially_revealed",
+          "known_ability": null,
+          "known_item": null,
+          "known_tera_type": null,
+          "base_stats": {
+            "hp": 234,
+            "attack": null,
+            "defense": null,
+            "sp_attack": null,
+            "sp_defense": null,
+            "speed": null
+          },
+          "known_moves": [],
+          "unknown_move_slots": 4
+        }
+      ],
+      "p2": [
+        {
+          "pokemon_uid": "p2-0",
+          "species": "Tatsugiri",
+          "nickname": null,
+          "level": 87,
+          "gender": "F",
+          "first_seen_turn": 1,
+          "revelation_status": "partially_revealed",
+          "known_ability": null,
+          "known_item": null,
+          "known_tera_type": null,
+          "base_stats": {
+            "hp": 260,
+            "attack": null,
+            "defense": null,
+            "sp_attack": null,
+            "sp_defense": null,
+            "speed": null
+          },
+          "known_moves": [],
+          "unknown_move_slots": 4
+        },
+        {
+          "pokemon_uid": "p2-1",
+          "species": "Avalugg",
+          "nickname": null,
+          "level": 90,
+          "gender": "F",
+          "first_seen_turn": 1,
+          "revelation_status": "partially_revealed",
+          "known_ability": null,
+          "known_item": null,
+          "known_tera_type": null,
+          "base_stats": {
+            "hp": 317,
+            "attack": null,
+            "defense": null,
+            "sp_attack": null,
+            "sp_defense": null,
+            "speed": null
+          },
+          "known_moves": [],
+          "unknown_move_slots": 4
+        },
+        {
+          "pokemon_uid": "p2-2",
+          "species": "Dragalge",
+          "nickname": null,
+          "level": 88,
+          "gender": "M",
+          "first_seen_turn": 1,
+          "revelation_status": "partially_revealed",
+          "known_ability": null,
+          "known_item": null,
+          "known_tera_type": null,
+          "base_stats": {
+            "hp": 258,
+            "attack": null,
+            "defense": null,
+            "sp_attack": null,
+            "sp_defense": null,
+            "speed": null
+          },
+          "known_moves": [],
+          "unknown_move_slots": 4
+        }
+      ]
+    },
+    "team_size": {
+      "p1": {
+        "known": 1,
+        "assumed_total": 6,
+        "confirmed": false
+      },
+      "p2": {
+        "known": 3,
+        "assumed_total": 6,
+        "confirmed": false
+      }
+    }
+  },
+  "turns": [
+    {
+      "turn_number": 1,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-0",
+          "move_id": "nastyplot",
+          "target_uid": "p1-0"
+        },
+        {
+          "seq": 1,
+          "type": "stat_change",
+          "target_uid": "p1-0",
+          "stat": "spa",
+          "amount": 2
+        },
+        {
+          "seq": 2,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-0",
+          "move_id": "dracometeor",
+          "target_uid": "p1-0"
+        },
+        {
+          "seq": 3,
+          "type": "effect",
+          "effect_type": "miss",
+          "raw_parts": [
+            "-miss",
+            "p2a: Tatsugiri",
+            "p1a: Darkrai"
+          ]
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 2,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-0",
+          "move_id": "darkpulse",
+          "target_uid": "p2-0"
+        },
+        {
+          "seq": 1,
+          "type": "damage",
+          "target_uid": "p2-0",
+          "amount": null,
+          "hp_after": 100,
+          "max_hp": 260,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 3,
+      "events": [
+        {
+          "seq": 0,
+          "type": "switch",
+          "player": "p2",
+          "pokemon_uid": "p2-1",
+          "into_uid": "p2-1"
+        },
+        {
+          "seq": 1,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-0",
+          "move_id": "darkpulse",
+          "target_uid": "p2-1"
+        },
+        {
+          "seq": 2,
+          "type": "effect",
+          "effect_type": "ability",
+          "raw_parts": [
+            "-ability",
+            "p2a: Avalugg",
+            "Sturdy"
+          ]
+        },
+        {
+          "seq": 3,
+          "type": "damage",
+          "target_uid": "p2-1",
+          "amount": null,
+          "hp_after": 1,
+          "max_hp": 317,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 4,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-0",
+          "move_id": "darkpulse",
+          "target_uid": "p2-1"
+        },
+        {
+          "seq": 1,
+          "type": "damage",
+          "target_uid": "p2-1",
+          "amount": null,
+          "hp_after": 0,
+          "max_hp": null,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 2,
+          "type": "faint",
+          "target_uid": "p2-1"
+        },
+        {
+          "seq": 3,
+          "type": "switch",
+          "player": "p2",
+          "pokemon_uid": "p2-2",
+          "into_uid": "p2-2"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 5,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-0",
+          "move_id": "darkpulse",
+          "target_uid": "p2-2"
+        },
+        {
+          "seq": 1,
+          "type": "damage",
+          "target_uid": "p2-2",
+          "amount": null,
+          "hp_after": 128,
+          "max_hp": 258,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 2,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-2",
+          "move_id": "focusblast",
+          "target_uid": "p1-0"
+        },
+        {
+          "seq": 3,
+          "type": "effect",
+          "effect_type": "miss",
+          "raw_parts": [
+            "-miss",
+            "p2a: Dragalge",
+            "p1a: Darkrai"
+          ]
+        },
+        {
+          "seq": 4,
+          "type": "heal",
+          "target_uid": "p2-2",
+          "amount": null,
+          "hp_after": 144,
+          "max_hp": 258,
+          "source": "unknown"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 6,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-0",
+          "move_id": "darkpulse",
+          "target_uid": "p2-2"
+        },
+        {
+          "seq": 1,
+          "type": "damage",
+          "target_uid": "p2-2",
+          "amount": null,
+          "hp_after": 0,
+          "max_hp": null,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 2,
+          "type": "faint",
+          "target_uid": "p2-2"
+        },
+        {
+          "seq": 3,
+          "type": "effect",
+          "effect_type": "message",
+          "raw_parts": [
+            "-message",
+            "xDragonessa forfeited."
+          ]
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    }
+  ],
+  "summary": {
+    "pokemon_used": {
+      "p1": [
+        "p1-0"
+      ],
+      "p2": [
+        "p2-0",
+        "p2-1",
+        "p2-2"
+      ]
+    },
+    "fainted_order": {
+      "p1": [],
+      "p2": []
+    },
+    "major_events": null
+  },
+  "integrity": {
+    "validated": true,
+    "issues": [],
+    "sha256_raw_log": "92272e908f35120fe3aa86d851b6a550",
+    "generation_time_ms": 0
+  }
+}

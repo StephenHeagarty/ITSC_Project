@@ -1,0 +1,229 @@
+{
+  "schema_version": "1.0.0",
+  "battle_id": "gen9randombattle-2396177815",
+  "format_id": "gen9randombattle",
+  "metadata": {
+    "timestamp_unix": 1751547050,
+    "total_turns": 2,
+    "outcome": {
+      "result": "win",
+      "winner": "p1",
+      "reason": "all_fainted"
+    }
+  },
+  "players": {
+    "p1": {
+      "name": "Zapatillazo34",
+      "ladder_rating_pre": 1419,
+      "ladder_rating_change": null
+    },
+    "p2": {
+      "name": "sia26",
+      "ladder_rating_pre": 1365,
+      "ladder_rating_change": null
+    }
+  },
+  "team_revelation": {
+    "format_type": "random_battle",
+    "revelation_pattern": "progressive",
+    "teams_fully_revealed": false,
+    "teams": {
+      "p1": [
+        {
+          "pokemon_uid": "p1-0",
+          "species": "Ogerpon",
+          "nickname": null,
+          "level": 76,
+          "gender": "F",
+          "first_seen_turn": 1,
+          "revelation_status": "partially_revealed",
+          "known_ability": null,
+          "known_item": null,
+          "known_tera_type": null,
+          "base_stats": {
+            "hp": 247,
+            "attack": null,
+            "defense": null,
+            "sp_attack": null,
+            "sp_defense": null,
+            "speed": null
+          },
+          "known_moves": [],
+          "unknown_move_slots": 4
+        }
+      ],
+      "p2": [
+        {
+          "pokemon_uid": "p2-0",
+          "species": "Rhyperior",
+          "nickname": null,
+          "level": 82,
+          "gender": "F",
+          "first_seen_turn": 1,
+          "revelation_status": "partially_revealed",
+          "known_ability": null,
+          "known_item": null,
+          "known_tera_type": null,
+          "base_stats": {
+            "hp": 323,
+            "attack": null,
+            "defense": null,
+            "sp_attack": null,
+            "sp_defense": null,
+            "speed": null
+          },
+          "known_moves": [],
+          "unknown_move_slots": 4
+        }
+      ]
+    },
+    "team_size": {
+      "p1": {
+        "known": 1,
+        "assumed_total": 6,
+        "confirmed": false
+      },
+      "p2": {
+        "known": 1,
+        "assumed_total": 6,
+        "confirmed": false
+      }
+    }
+  },
+  "turns": [
+    {
+      "turn_number": 1,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-0",
+          "move_id": "ivycudgel",
+          "target_uid": "p2-0"
+        },
+        {
+          "seq": 1,
+          "type": "effect",
+          "effect_type": "supereffective",
+          "raw_parts": [
+            "-supereffective",
+            "p2a: Rhyperior"
+          ]
+        },
+        {
+          "seq": 2,
+          "type": "damage",
+          "target_uid": "p2-0",
+          "amount": null,
+          "hp_after": 44,
+          "max_hp": 323,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 3,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-0",
+          "move_id": "dragontail",
+          "target_uid": "p1-0"
+        },
+        {
+          "seq": 4,
+          "type": "damage",
+          "target_uid": "p1-0",
+          "amount": null,
+          "hp_after": 187,
+          "max_hp": 247,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 5,
+          "type": "switch",
+          "player": "p1",
+          "pokemon_uid": null,
+          "into_uid": null
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 2,
+      "events": [
+        {
+          "seq": 0,
+          "type": "effect",
+          "effect_type": "message",
+          "raw_parts": [
+            "-message",
+            "sia26 lost due to inactivity."
+          ]
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    }
+  ],
+  "summary": {
+    "pokemon_used": {
+      "p1": [
+        "p1-0"
+      ],
+      "p2": [
+        "p2-0"
+      ]
+    },
+    "fainted_order": {
+      "p1": [],
+      "p2": []
+    },
+    "major_events": null
+  },
+  "integrity": {
+    "validated": true,
+    "issues": [],
+    "sha256_raw_log": "5d8a7e818e65b37c8f78b9962e7bcab9",
+    "generation_time_ms": 0
+  }
+}

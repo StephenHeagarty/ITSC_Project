@@ -1,0 +1,2828 @@
+{
+  "schema_version": "1.0.0",
+  "battle_id": "gen9randombattle-2396890757",
+  "format_id": "gen9randombattle",
+  "metadata": {
+    "timestamp_unix": 1751648664,
+    "total_turns": 30,
+    "outcome": {
+      "result": "win",
+      "winner": "p1",
+      "reason": "all_fainted"
+    }
+  },
+  "players": {
+    "p1": {
+      "name": "Animated_Frank",
+      "ladder_rating_pre": 1390,
+      "ladder_rating_change": null
+    },
+    "p2": {
+      "name": "xrrbm94",
+      "ladder_rating_pre": 1384,
+      "ladder_rating_change": null
+    }
+  },
+  "team_revelation": {
+    "format_type": "random_battle",
+    "revelation_pattern": "progressive",
+    "teams_fully_revealed": false,
+    "teams": {
+      "p1": [
+        {
+          "pokemon_uid": "p1-0",
+          "species": "Garganacl",
+          "nickname": null,
+          "level": 80,
+          "gender": "M",
+          "first_seen_turn": 1,
+          "revelation_status": "partially_revealed",
+          "known_ability": null,
+          "known_item": null,
+          "known_tera_type": null,
+          "base_stats": {
+            "hp": 291,
+            "attack": null,
+            "defense": null,
+            "sp_attack": null,
+            "sp_defense": null,
+            "speed": null
+          },
+          "known_moves": [],
+          "unknown_move_slots": 4
+        },
+        {
+          "pokemon_uid": "p1-1",
+          "species": "Gurdurr",
+          "nickname": null,
+          "level": 85,
+          "gender": "M",
+          "first_seen_turn": 1,
+          "revelation_status": "partially_revealed",
+          "known_ability": null,
+          "known_item": null,
+          "known_tera_type": null,
+          "base_stats": {
+            "hp": 283,
+            "attack": null,
+            "defense": null,
+            "sp_attack": null,
+            "sp_defense": null,
+            "speed": null
+          },
+          "known_moves": [],
+          "unknown_move_slots": 4
+        },
+        {
+          "pokemon_uid": "p1-2",
+          "species": "Raikou",
+          "nickname": null,
+          "level": 81,
+          "gender": null,
+          "first_seen_turn": 1,
+          "revelation_status": "partially_revealed",
+          "known_ability": null,
+          "known_item": null,
+          "known_tera_type": null,
+          "base_stats": {
+            "hp": 278,
+            "attack": null,
+            "defense": null,
+            "sp_attack": null,
+            "sp_defense": null,
+            "speed": null
+          },
+          "known_moves": [],
+          "unknown_move_slots": 4
+        },
+        {
+          "pokemon_uid": "p1-3",
+          "species": "Golem",
+          "nickname": null,
+          "level": 93,
+          "gender": "M",
+          "first_seen_turn": 1,
+          "revelation_status": "partially_revealed",
+          "known_ability": null,
+          "known_item": null,
+          "known_tera_type": null,
+          "base_stats": {
+            "hp": 300,
+            "attack": null,
+            "defense": null,
+            "sp_attack": null,
+            "sp_defense": null,
+            "speed": null
+          },
+          "known_moves": [],
+          "unknown_move_slots": 4
+        },
+        {
+          "pokemon_uid": "p1-4",
+          "species": "Basculin",
+          "nickname": null,
+          "level": 86,
+          "gender": "M",
+          "first_seen_turn": 1,
+          "revelation_status": "partially_revealed",
+          "known_ability": null,
+          "known_item": null,
+          "known_tera_type": null,
+          "base_stats": {
+            "hp": 261,
+            "attack": null,
+            "defense": null,
+            "sp_attack": null,
+            "sp_defense": null,
+            "speed": null
+          },
+          "known_moves": [],
+          "unknown_move_slots": 4
+        },
+        {
+          "pokemon_uid": "p1-5",
+          "species": "Komala",
+          "nickname": null,
+          "level": 89,
+          "gender": "F",
+          "first_seen_turn": 1,
+          "revelation_status": "partially_revealed",
+          "known_ability": null,
+          "known_item": null,
+          "known_tera_type": null,
+          "base_stats": {
+            "hp": 260,
+            "attack": null,
+            "defense": null,
+            "sp_attack": null,
+            "sp_defense": null,
+            "speed": null
+          },
+          "known_moves": [],
+          "unknown_move_slots": 4
+        }
+      ],
+      "p2": [
+        {
+          "pokemon_uid": "p2-0",
+          "species": "Kingdra",
+          "nickname": null,
+          "level": 84,
+          "gender": "F",
+          "first_seen_turn": 1,
+          "revelation_status": "partially_revealed",
+          "known_ability": null,
+          "known_item": null,
+          "known_tera_type": null,
+          "base_stats": {
+            "hp": 263,
+            "attack": null,
+            "defense": null,
+            "sp_attack": null,
+            "sp_defense": null,
+            "speed": null
+          },
+          "known_moves": [],
+          "unknown_move_slots": 4
+        },
+        {
+          "pokemon_uid": "p2-1",
+          "species": "Glimmora",
+          "nickname": null,
+          "level": 75,
+          "gender": "M",
+          "first_seen_turn": 1,
+          "revelation_status": "partially_revealed",
+          "known_ability": null,
+          "known_item": null,
+          "known_tera_type": null,
+          "base_stats": {
+            "hp": 248,
+            "attack": null,
+            "defense": null,
+            "sp_attack": null,
+            "sp_defense": null,
+            "speed": null
+          },
+          "known_moves": [],
+          "unknown_move_slots": 4
+        },
+        {
+          "pokemon_uid": "p2-2",
+          "species": "Scizor",
+          "nickname": null,
+          "level": 79,
+          "gender": "F",
+          "first_seen_turn": 1,
+          "revelation_status": "partially_revealed",
+          "known_ability": null,
+          "known_item": null,
+          "known_tera_type": null,
+          "base_stats": {
+            "hp": 240,
+            "attack": null,
+            "defense": null,
+            "sp_attack": null,
+            "sp_defense": null,
+            "speed": null
+          },
+          "known_moves": [],
+          "unknown_move_slots": 4
+        },
+        {
+          "pokemon_uid": "p2-3",
+          "species": "Crawdaunt",
+          "nickname": null,
+          "level": 84,
+          "gender": "F",
+          "first_seen_turn": 1,
+          "revelation_status": "partially_revealed",
+          "known_ability": null,
+          "known_item": null,
+          "known_tera_type": null,
+          "base_stats": {
+            "hp": 243,
+            "attack": null,
+            "defense": null,
+            "sp_attack": null,
+            "sp_defense": null,
+            "speed": null
+          },
+          "known_moves": [],
+          "unknown_move_slots": 4
+        },
+        {
+          "pokemon_uid": "p2-4",
+          "species": "Munkidori",
+          "nickname": null,
+          "level": 79,
+          "gender": "M",
+          "first_seen_turn": 1,
+          "revelation_status": "partially_revealed",
+          "known_ability": null,
+          "known_item": null,
+          "known_tera_type": null,
+          "base_stats": {
+            "hp": 269,
+            "attack": null,
+            "defense": null,
+            "sp_attack": null,
+            "sp_defense": null,
+            "speed": null
+          },
+          "known_moves": [],
+          "unknown_move_slots": 4
+        },
+        {
+          "pokemon_uid": "p2-5",
+          "species": "Skeledirge",
+          "nickname": null,
+          "level": 79,
+          "gender": "F",
+          "first_seen_turn": 1,
+          "revelation_status": "partially_revealed",
+          "known_ability": null,
+          "known_item": null,
+          "known_tera_type": null,
+          "base_stats": {
+            "hp": 294,
+            "attack": null,
+            "defense": null,
+            "sp_attack": null,
+            "sp_defense": null,
+            "speed": null
+          },
+          "known_moves": [],
+          "unknown_move_slots": 4
+        }
+      ]
+    },
+    "team_size": {
+      "p1": {
+        "known": 6,
+        "assumed_total": 6,
+        "confirmed": false
+      },
+      "p2": {
+        "known": 6,
+        "assumed_total": 6,
+        "confirmed": false
+      }
+    }
+  },
+  "turns": [
+    {
+      "turn_number": 1,
+      "events": [
+        {
+          "seq": 0,
+          "type": "switch",
+          "player": "p2",
+          "pokemon_uid": "p2-1",
+          "into_uid": "p2-1"
+        },
+        {
+          "seq": 1,
+          "type": "effect",
+          "effect_type": "item",
+          "raw_parts": [
+            "-item",
+            "p2a: Glimmora",
+            "Air Balloon"
+          ]
+        },
+        {
+          "seq": 2,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-0",
+          "move_id": "saltcure",
+          "target_uid": "p2-1"
+        },
+        {
+          "seq": 3,
+          "type": "damage",
+          "target_uid": "p2-1",
+          "amount": null,
+          "hp_after": 200,
+          "max_hp": 248,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 4,
+          "type": "effect",
+          "effect_type": "start",
+          "raw_parts": [
+            "-start",
+            "p2a: Glimmora",
+            "Salt Cure"
+          ]
+        },
+        {
+          "seq": 5,
+          "type": "effect",
+          "effect_type": "activate",
+          "raw_parts": [
+            "-activate",
+            "p2a: Glimmora",
+            "ability: Toxic Debris"
+          ]
+        },
+        {
+          "seq": 6,
+          "type": "effect",
+          "effect_type": "sidestart",
+          "raw_parts": [
+            "-sidestart",
+            "p1: Animated_Frank",
+            "move: Toxic Spikes"
+          ]
+        },
+        {
+          "seq": 7,
+          "type": "effect",
+          "effect_type": "enditem",
+          "raw_parts": [
+            "-enditem",
+            "p2a: Glimmora",
+            "Air Balloon"
+          ]
+        },
+        {
+          "seq": 8,
+          "type": "damage",
+          "target_uid": "p2-1",
+          "amount": null,
+          "hp_after": 169,
+          "max_hp": 248,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 2,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-1",
+          "move_id": "earthpower",
+          "target_uid": "p1-0"
+        },
+        {
+          "seq": 1,
+          "type": "effect",
+          "effect_type": "supereffective",
+          "raw_parts": [
+            "-supereffective",
+            "p1a: Garganacl"
+          ]
+        },
+        {
+          "seq": 2,
+          "type": "damage",
+          "target_uid": "p1-0",
+          "amount": null,
+          "hp_after": 161,
+          "max_hp": 291,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 3,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-0",
+          "move_id": "earthquake",
+          "target_uid": "p2-1"
+        },
+        {
+          "seq": 4,
+          "type": "effect",
+          "effect_type": "supereffective",
+          "raw_parts": [
+            "-supereffective",
+            "p2a: Glimmora"
+          ]
+        },
+        {
+          "seq": 5,
+          "type": "damage",
+          "target_uid": "p2-1",
+          "amount": null,
+          "hp_after": 0,
+          "max_hp": null,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 6,
+          "type": "effect",
+          "effect_type": "activate",
+          "raw_parts": [
+            "-activate",
+            "p2a: Glimmora",
+            "ability: Toxic Debris"
+          ]
+        },
+        {
+          "seq": 7,
+          "type": "effect",
+          "effect_type": "sidestart",
+          "raw_parts": [
+            "-sidestart",
+            "p1: Animated_Frank",
+            "move: Toxic Spikes"
+          ]
+        },
+        {
+          "seq": 8,
+          "type": "faint",
+          "target_uid": "p2-1"
+        },
+        {
+          "seq": 9,
+          "type": "heal",
+          "target_uid": "p1-0",
+          "amount": null,
+          "hp_after": 179,
+          "max_hp": 291,
+          "source": "unknown"
+        },
+        {
+          "seq": 10,
+          "type": "switch",
+          "player": "p2",
+          "pokemon_uid": "p2-2",
+          "into_uid": "p2-2"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 3,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-0",
+          "move_id": "protect",
+          "target_uid": "p1-0"
+        },
+        {
+          "seq": 1,
+          "type": "effect",
+          "effect_type": "singleturn",
+          "raw_parts": [
+            "-singleturn",
+            "p1a: Garganacl",
+            "Protect"
+          ]
+        },
+        {
+          "seq": 2,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-2",
+          "move_id": "bulletpunch",
+          "target_uid": "p1-0"
+        },
+        {
+          "seq": 3,
+          "type": "effect",
+          "effect_type": "activate",
+          "raw_parts": [
+            "-activate",
+            "p1a: Garganacl",
+            "move: Protect"
+          ]
+        },
+        {
+          "seq": 4,
+          "type": "heal",
+          "target_uid": "p1-0",
+          "amount": null,
+          "hp_after": 197,
+          "max_hp": 291,
+          "source": "unknown"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 4,
+      "events": [
+        {
+          "seq": 0,
+          "type": "switch",
+          "player": "p1",
+          "pokemon_uid": "p1-1",
+          "into_uid": "p1-1"
+        },
+        {
+          "seq": 1,
+          "type": "status_start",
+          "target_uid": "p1-1",
+          "status": "tox",
+          "source": "unknown"
+        },
+        {
+          "seq": 2,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-2",
+          "move_id": "bulletpunch",
+          "target_uid": "p1-1"
+        },
+        {
+          "seq": 3,
+          "type": "damage",
+          "target_uid": "p1-1",
+          "amount": null,
+          "hp_after": 210,
+          "max_hp": 283,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 4,
+          "type": "damage",
+          "target_uid": "p1-1",
+          "amount": null,
+          "hp_after": 193,
+          "max_hp": 283,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 5,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-2",
+          "move_id": "bulletpunch",
+          "target_uid": "p1-1"
+        },
+        {
+          "seq": 1,
+          "type": "damage",
+          "target_uid": "p1-1",
+          "amount": null,
+          "hp_after": 123,
+          "max_hp": 283,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 2,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-1",
+          "move_id": "defog",
+          "target_uid": "p2-2"
+        },
+        {
+          "seq": 3,
+          "type": "stat_change",
+          "target_uid": "p2-2",
+          "stat": "evasion",
+          "amount": -1
+        },
+        {
+          "seq": 4,
+          "type": "effect",
+          "effect_type": "sideend",
+          "raw_parts": [
+            "-sideend",
+            "p1: Animated_Frank",
+            "Toxic Spikes",
+            "[from] move: Defog",
+            "[of] p1a: Gurdurr"
+          ]
+        },
+        {
+          "seq": 5,
+          "type": "damage",
+          "target_uid": "p1-1",
+          "amount": null,
+          "hp_after": 89,
+          "max_hp": 283,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 6,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-2",
+          "move_id": "bulletpunch",
+          "target_uid": "p1-1"
+        },
+        {
+          "seq": 1,
+          "type": "damage",
+          "target_uid": "p1-1",
+          "amount": null,
+          "hp_after": 13,
+          "max_hp": 283,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 2,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-1",
+          "move_id": "drainpunch",
+          "target_uid": "p2-2"
+        },
+        {
+          "seq": 3,
+          "type": "damage",
+          "target_uid": "p2-2",
+          "amount": null,
+          "hp_after": 102,
+          "max_hp": 240,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 4,
+          "type": "heal",
+          "target_uid": "p1-1",
+          "amount": null,
+          "hp_after": 82,
+          "max_hp": 283,
+          "source": "unknown"
+        },
+        {
+          "seq": 5,
+          "type": "damage",
+          "target_uid": "p1-1",
+          "amount": null,
+          "hp_after": 31,
+          "max_hp": 283,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 7,
+      "events": [
+        {
+          "seq": 0,
+          "type": "switch",
+          "player": "p1",
+          "pokemon_uid": "p1-2",
+          "into_uid": "p1-2"
+        },
+        {
+          "seq": 1,
+          "type": "effect",
+          "effect_type": "ability",
+          "raw_parts": [
+            "-ability",
+            "p1a: Raikou",
+            "Pressure"
+          ]
+        },
+        {
+          "seq": 2,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-2",
+          "move_id": "bulletpunch",
+          "target_uid": "p1-2"
+        },
+        {
+          "seq": 3,
+          "type": "effect",
+          "effect_type": "resisted",
+          "raw_parts": [
+            "-resisted",
+            "p1a: Raikou"
+          ]
+        },
+        {
+          "seq": 4,
+          "type": "damage",
+          "target_uid": "p1-2",
+          "amount": null,
+          "hp_after": 214,
+          "max_hp": 278,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 5,
+          "type": "heal",
+          "target_uid": "p1-2",
+          "amount": null,
+          "hp_after": 231,
+          "max_hp": 278,
+          "source": "unknown"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 8,
+      "events": [
+        {
+          "seq": 0,
+          "type": "switch",
+          "player": "p2",
+          "pokemon_uid": "p2-0",
+          "into_uid": "p2-0"
+        },
+        {
+          "seq": 1,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-2",
+          "move_id": "thunderbolt",
+          "target_uid": "p2-0"
+        },
+        {
+          "seq": 2,
+          "type": "damage",
+          "target_uid": "p2-0",
+          "amount": null,
+          "hp_after": 175,
+          "max_hp": 263,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 3,
+          "type": "heal",
+          "target_uid": "p1-2",
+          "amount": null,
+          "hp_after": 248,
+          "max_hp": 278,
+          "source": "unknown"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 9,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-2",
+          "move_id": "calmmind",
+          "target_uid": "p1-2"
+        },
+        {
+          "seq": 1,
+          "type": "stat_change",
+          "target_uid": "p1-2",
+          "stat": "spa",
+          "amount": 1
+        },
+        {
+          "seq": 2,
+          "type": "stat_change",
+          "target_uid": "p1-2",
+          "stat": "spd",
+          "amount": 1
+        },
+        {
+          "seq": 3,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-0",
+          "move_id": "raindance",
+          "target_uid": "p2-0"
+        },
+        {
+          "seq": 4,
+          "type": "effect",
+          "effect_type": "weather",
+          "raw_parts": [
+            "-weather",
+            "RainDance"
+          ]
+        },
+        {
+          "seq": 5,
+          "type": "effect",
+          "effect_type": "weather",
+          "raw_parts": [
+            "-weather",
+            "RainDance",
+            "[upkeep]"
+          ]
+        },
+        {
+          "seq": 6,
+          "type": "heal",
+          "target_uid": "p1-2",
+          "amount": null,
+          "hp_after": 265,
+          "max_hp": 278,
+          "source": "unknown"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 10,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-0",
+          "move_id": "wavecrash",
+          "target_uid": "p1-2"
+        },
+        {
+          "seq": 1,
+          "type": "damage",
+          "target_uid": "p1-2",
+          "amount": null,
+          "hp_after": 0,
+          "max_hp": null,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 2,
+          "type": "faint",
+          "target_uid": "p1-2"
+        },
+        {
+          "seq": 3,
+          "type": "damage",
+          "target_uid": "p2-0",
+          "amount": null,
+          "hp_after": 88,
+          "max_hp": 263,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 4,
+          "type": "damage",
+          "target_uid": "p2-0",
+          "amount": null,
+          "hp_after": 62,
+          "max_hp": 263,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 5,
+          "type": "effect",
+          "effect_type": "weather",
+          "raw_parts": [
+            "-weather",
+            "RainDance",
+            "[upkeep]"
+          ]
+        },
+        {
+          "seq": 6,
+          "type": "switch",
+          "player": "p1",
+          "pokemon_uid": "p1-1",
+          "into_uid": "p1-1"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 11,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-1",
+          "move_id": "machpunch",
+          "target_uid": "p2-0"
+        },
+        {
+          "seq": 1,
+          "type": "damage",
+          "target_uid": "p2-0",
+          "amount": null,
+          "hp_after": 0,
+          "max_hp": null,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 2,
+          "type": "faint",
+          "target_uid": "p2-0"
+        },
+        {
+          "seq": 3,
+          "type": "effect",
+          "effect_type": "weather",
+          "raw_parts": [
+            "-weather",
+            "RainDance",
+            "[upkeep]"
+          ]
+        },
+        {
+          "seq": 4,
+          "type": "damage",
+          "target_uid": "p1-1",
+          "amount": null,
+          "hp_after": 14,
+          "max_hp": 283,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 5,
+          "type": "switch",
+          "player": "p2",
+          "pokemon_uid": "p2-2",
+          "into_uid": "p2-2"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 12,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-1",
+          "move_id": "machpunch",
+          "target_uid": "p2-2"
+        },
+        {
+          "seq": 1,
+          "type": "damage",
+          "target_uid": "p2-2",
+          "amount": null,
+          "hp_after": 35,
+          "max_hp": 240,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 2,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-2",
+          "move_id": "u-turn",
+          "target_uid": "p1-1"
+        },
+        {
+          "seq": 3,
+          "type": "effect",
+          "effect_type": "resisted",
+          "raw_parts": [
+            "-resisted",
+            "p1a: Gurdurr"
+          ]
+        },
+        {
+          "seq": 4,
+          "type": "damage",
+          "target_uid": "p1-1",
+          "amount": null,
+          "hp_after": 0,
+          "max_hp": null,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 5,
+          "type": "faint",
+          "target_uid": "p1-1"
+        },
+        {
+          "seq": 6,
+          "type": "switch",
+          "player": "p2",
+          "pokemon_uid": "p2-3",
+          "into_uid": "p2-3"
+        },
+        {
+          "seq": 7,
+          "type": "effect",
+          "effect_type": "weather",
+          "raw_parts": [
+            "-weather",
+            "RainDance",
+            "[upkeep]"
+          ]
+        },
+        {
+          "seq": 8,
+          "type": "switch",
+          "player": "p1",
+          "pokemon_uid": "p1-3",
+          "into_uid": "p1-3"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 13,
+      "events": [
+        {
+          "seq": 0,
+          "type": "form_change",
+          "target_uid": "p1-3",
+          "mechanic": "terastallize",
+          "tera_type": "Grass"
+        },
+        {
+          "seq": 1,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-3",
+          "move_id": "crabhammer",
+          "target_uid": "p1-3"
+        },
+        {
+          "seq": 2,
+          "type": "effect",
+          "effect_type": "resisted",
+          "raw_parts": [
+            "-resisted",
+            "p1a: Golem"
+          ]
+        },
+        {
+          "seq": 3,
+          "type": "damage",
+          "target_uid": "p1-3",
+          "amount": null,
+          "hp_after": 200,
+          "max_hp": 300,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 4,
+          "type": "damage",
+          "target_uid": "p2-3",
+          "amount": null,
+          "hp_after": 219,
+          "max_hp": 243,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 5,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-3",
+          "move_id": "rockpolish",
+          "target_uid": "p1-3"
+        },
+        {
+          "seq": 6,
+          "type": "stat_change",
+          "target_uid": "p1-3",
+          "stat": "spe",
+          "amount": 2
+        },
+        {
+          "seq": 7,
+          "type": "effect",
+          "effect_type": "weather",
+          "raw_parts": [
+            "-weather",
+            "none"
+          ]
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 14,
+      "events": [
+        {
+          "seq": 0,
+          "type": "switch",
+          "player": "p2",
+          "pokemon_uid": "p2-4",
+          "into_uid": "p2-4"
+        },
+        {
+          "seq": 1,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-3",
+          "move_id": "double-edge",
+          "target_uid": "p2-4"
+        },
+        {
+          "seq": 2,
+          "type": "damage",
+          "target_uid": "p2-4",
+          "amount": null,
+          "hp_after": 0,
+          "max_hp": null,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 3,
+          "type": "faint",
+          "target_uid": "p2-4"
+        },
+        {
+          "seq": 4,
+          "type": "damage",
+          "target_uid": "p1-3",
+          "amount": null,
+          "hp_after": 111,
+          "max_hp": 300,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 5,
+          "type": "damage",
+          "target_uid": "p1-3",
+          "amount": null,
+          "hp_after": 81,
+          "max_hp": 300,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 6,
+          "type": "switch",
+          "player": "p2",
+          "pokemon_uid": "p2-2",
+          "into_uid": "p2-2"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 15,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-2",
+          "move_id": "bulletpunch",
+          "target_uid": "p1-3"
+        },
+        {
+          "seq": 1,
+          "type": "damage",
+          "target_uid": "p1-3",
+          "amount": null,
+          "hp_after": 15,
+          "max_hp": 300,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 2,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-3",
+          "move_id": "earthquake",
+          "target_uid": "p2-2"
+        },
+        {
+          "seq": 3,
+          "type": "damage",
+          "target_uid": "p2-2",
+          "amount": null,
+          "hp_after": 0,
+          "max_hp": null,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 4,
+          "type": "faint",
+          "target_uid": "p2-2"
+        },
+        {
+          "seq": 5,
+          "type": "damage",
+          "target_uid": "p1-3",
+          "amount": null,
+          "hp_after": 0,
+          "max_hp": null,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 6,
+          "type": "faint",
+          "target_uid": "p1-3"
+        },
+        {
+          "seq": 7,
+          "type": "switch",
+          "player": "p2",
+          "pokemon_uid": "p2-3",
+          "into_uid": "p2-3"
+        },
+        {
+          "seq": 8,
+          "type": "switch",
+          "player": "p1",
+          "pokemon_uid": "p1-4",
+          "into_uid": "p1-4"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 16,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-4",
+          "move_id": "flipturn",
+          "target_uid": "p2-3"
+        },
+        {
+          "seq": 1,
+          "type": "effect",
+          "effect_type": "resisted",
+          "raw_parts": [
+            "-resisted",
+            "p2a: Crawdaunt"
+          ]
+        },
+        {
+          "seq": 2,
+          "type": "damage",
+          "target_uid": "p2-3",
+          "amount": null,
+          "hp_after": 156,
+          "max_hp": 243,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 3,
+          "type": "switch",
+          "player": "p1",
+          "pokemon_uid": "p1-5",
+          "into_uid": "p1-5"
+        },
+        {
+          "seq": 4,
+          "type": "effect",
+          "effect_type": "ability",
+          "raw_parts": [
+            "-ability",
+            "p1a: Komala",
+            "Comatose"
+          ]
+        },
+        {
+          "seq": 5,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-3",
+          "move_id": "dragondance",
+          "target_uid": "p2-3"
+        },
+        {
+          "seq": 6,
+          "type": "stat_change",
+          "target_uid": "p2-3",
+          "stat": "atk",
+          "amount": 1
+        },
+        {
+          "seq": 7,
+          "type": "stat_change",
+          "target_uid": "p2-3",
+          "stat": "spe",
+          "amount": 1
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 17,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-3",
+          "move_id": "crabhammer",
+          "target_uid": "p1-5"
+        },
+        {
+          "seq": 1,
+          "type": "damage",
+          "target_uid": "p1-5",
+          "amount": null,
+          "hp_after": 0,
+          "max_hp": null,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 2,
+          "type": "faint",
+          "target_uid": "p1-5"
+        },
+        {
+          "seq": 3,
+          "type": "damage",
+          "target_uid": "p2-3",
+          "amount": null,
+          "hp_after": 132,
+          "max_hp": 243,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 4,
+          "type": "switch",
+          "player": "p1",
+          "pokemon_uid": "p1-4",
+          "into_uid": "p1-4"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 18,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-4",
+          "move_id": "wavecrash",
+          "target_uid": "p2-3"
+        },
+        {
+          "seq": 1,
+          "type": "effect",
+          "effect_type": "resisted",
+          "raw_parts": [
+            "-resisted",
+            "p2a: Crawdaunt"
+          ]
+        },
+        {
+          "seq": 2,
+          "type": "damage",
+          "target_uid": "p2-3",
+          "amount": null,
+          "hp_after": 5,
+          "max_hp": 243,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 3,
+          "type": "damage",
+          "target_uid": "p1-4",
+          "amount": null,
+          "hp_after": 219,
+          "max_hp": 261,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 4,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-3",
+          "move_id": "closecombat",
+          "target_uid": "p1-4"
+        },
+        {
+          "seq": 5,
+          "type": "damage",
+          "target_uid": "p1-4",
+          "amount": null,
+          "hp_after": 0,
+          "max_hp": null,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 6,
+          "type": "stat_change",
+          "target_uid": "p2-3",
+          "stat": "def",
+          "amount": -1
+        },
+        {
+          "seq": 7,
+          "type": "stat_change",
+          "target_uid": "p2-3",
+          "stat": "spd",
+          "amount": -1
+        },
+        {
+          "seq": 8,
+          "type": "faint",
+          "target_uid": "p1-4"
+        },
+        {
+          "seq": 9,
+          "type": "damage",
+          "target_uid": "p2-3",
+          "amount": null,
+          "hp_after": 0,
+          "max_hp": null,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 10,
+          "type": "faint",
+          "target_uid": "p2-3"
+        },
+        {
+          "seq": 11,
+          "type": "switch",
+          "player": "p1",
+          "pokemon_uid": "p1-0",
+          "into_uid": "p1-0"
+        },
+        {
+          "seq": 12,
+          "type": "switch",
+          "player": "p2",
+          "pokemon_uid": "p2-5",
+          "into_uid": "p2-5"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 19,
+      "events": [
+        {
+          "seq": 0,
+          "type": "form_change",
+          "target_uid": "p2-5",
+          "mechanic": "terastallize",
+          "tera_type": "Water"
+        },
+        {
+          "seq": 1,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-0",
+          "move_id": "protect",
+          "target_uid": "p1-0"
+        },
+        {
+          "seq": 2,
+          "type": "effect",
+          "effect_type": "singleturn",
+          "raw_parts": [
+            "-singleturn",
+            "p1a: Garganacl",
+            "Protect"
+          ]
+        },
+        {
+          "seq": 3,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-5",
+          "move_id": "will-o-wisp",
+          "target_uid": "p1-0"
+        },
+        {
+          "seq": 4,
+          "type": "effect",
+          "effect_type": "activate",
+          "raw_parts": [
+            "-activate",
+            "p1a: Garganacl",
+            "move: Protect"
+          ]
+        },
+        {
+          "seq": 5,
+          "type": "heal",
+          "target_uid": "p1-0",
+          "amount": null,
+          "hp_after": 215,
+          "max_hp": 291,
+          "source": "unknown"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 20,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-5",
+          "move_id": "will-o-wisp",
+          "target_uid": "p1-0"
+        },
+        {
+          "seq": 1,
+          "type": "effect",
+          "effect_type": "immune",
+          "raw_parts": [
+            "-immune",
+            "p1a: Garganacl",
+            "[from] ability: Purifying Salt"
+          ]
+        },
+        {
+          "seq": 2,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-0",
+          "move_id": "saltcure",
+          "target_uid": "p2-5"
+        },
+        {
+          "seq": 3,
+          "type": "damage",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 257,
+          "max_hp": 294,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 4,
+          "type": "effect",
+          "effect_type": "start",
+          "raw_parts": [
+            "-start",
+            "p2a: Skeledirge",
+            "Salt Cure"
+          ]
+        },
+        {
+          "seq": 5,
+          "type": "heal",
+          "target_uid": "p1-0",
+          "amount": null,
+          "hp_after": 233,
+          "max_hp": 291,
+          "source": "unknown"
+        },
+        {
+          "seq": 6,
+          "type": "damage",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 184,
+          "max_hp": 294,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 21,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-0",
+          "move_id": "protect",
+          "target_uid": "p1-0"
+        },
+        {
+          "seq": 1,
+          "type": "effect",
+          "effect_type": "singleturn",
+          "raw_parts": [
+            "-singleturn",
+            "p1a: Garganacl",
+            "Protect"
+          ]
+        },
+        {
+          "seq": 2,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-5",
+          "move_id": "torchsong",
+          "target_uid": "p1-0"
+        },
+        {
+          "seq": 3,
+          "type": "effect",
+          "effect_type": "activate",
+          "raw_parts": [
+            "-activate",
+            "p1a: Garganacl",
+            "move: Protect"
+          ]
+        },
+        {
+          "seq": 4,
+          "type": "heal",
+          "target_uid": "p1-0",
+          "amount": null,
+          "hp_after": 251,
+          "max_hp": 291,
+          "source": "unknown"
+        },
+        {
+          "seq": 5,
+          "type": "damage",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 111,
+          "max_hp": 294,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 22,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-5",
+          "move_id": "slackoff",
+          "target_uid": "p2-5"
+        },
+        {
+          "seq": 1,
+          "type": "heal",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 258,
+          "max_hp": 294,
+          "source": "unknown"
+        },
+        {
+          "seq": 2,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-0",
+          "move_id": "earthquake",
+          "target_uid": "p2-5"
+        },
+        {
+          "seq": 3,
+          "type": "damage",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 193,
+          "max_hp": 294,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 4,
+          "type": "heal",
+          "target_uid": "p1-0",
+          "amount": null,
+          "hp_after": 269,
+          "max_hp": 291,
+          "source": "unknown"
+        },
+        {
+          "seq": 5,
+          "type": "damage",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 120,
+          "max_hp": 294,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 23,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-5",
+          "move_id": "slackoff",
+          "target_uid": "p2-5"
+        },
+        {
+          "seq": 1,
+          "type": "heal",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 267,
+          "max_hp": 294,
+          "source": "unknown"
+        },
+        {
+          "seq": 2,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-0",
+          "move_id": "earthquake",
+          "target_uid": "p2-5"
+        },
+        {
+          "seq": 3,
+          "type": "damage",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 204,
+          "max_hp": 294,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 4,
+          "type": "heal",
+          "target_uid": "p1-0",
+          "amount": null,
+          "hp_after": 287,
+          "max_hp": 291,
+          "source": "unknown"
+        },
+        {
+          "seq": 5,
+          "type": "damage",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 131,
+          "max_hp": 294,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 24,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-5",
+          "move_id": "slackoff",
+          "target_uid": "p2-5"
+        },
+        {
+          "seq": 1,
+          "type": "heal",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 278,
+          "max_hp": 294,
+          "source": "unknown"
+        },
+        {
+          "seq": 2,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-0",
+          "move_id": "earthquake",
+          "target_uid": "p2-5"
+        },
+        {
+          "seq": 3,
+          "type": "damage",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 215,
+          "max_hp": 294,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 4,
+          "type": "heal",
+          "target_uid": "p1-0",
+          "amount": null,
+          "hp_after": 291,
+          "max_hp": 291,
+          "source": "unknown"
+        },
+        {
+          "seq": 5,
+          "type": "damage",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 142,
+          "max_hp": 294,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 25,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-5",
+          "move_id": "slackoff",
+          "target_uid": "p2-5"
+        },
+        {
+          "seq": 1,
+          "type": "heal",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 289,
+          "max_hp": 294,
+          "source": "unknown"
+        },
+        {
+          "seq": 2,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-0",
+          "move_id": "earthquake",
+          "target_uid": "p2-5"
+        },
+        {
+          "seq": 3,
+          "type": "damage",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 223,
+          "max_hp": 294,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 4,
+          "type": "damage",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 150,
+          "max_hp": 294,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 26,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-5",
+          "move_id": "slackoff",
+          "target_uid": "p2-5"
+        },
+        {
+          "seq": 1,
+          "type": "heal",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 294,
+          "max_hp": 294,
+          "source": "unknown"
+        },
+        {
+          "seq": 2,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-0",
+          "move_id": "earthquake",
+          "target_uid": "p2-5"
+        },
+        {
+          "seq": 3,
+          "type": "damage",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 226,
+          "max_hp": 294,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 4,
+          "type": "damage",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 153,
+          "max_hp": 294,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 27,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-5",
+          "move_id": "slackoff",
+          "target_uid": "p2-5"
+        },
+        {
+          "seq": 1,
+          "type": "heal",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 294,
+          "max_hp": 294,
+          "source": "unknown"
+        },
+        {
+          "seq": 2,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-0",
+          "move_id": "earthquake",
+          "target_uid": "p2-5"
+        },
+        {
+          "seq": 3,
+          "type": "damage",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 227,
+          "max_hp": 294,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 4,
+          "type": "damage",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 154,
+          "max_hp": 294,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 28,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-5",
+          "move_id": "slackoff",
+          "target_uid": "p2-5"
+        },
+        {
+          "seq": 1,
+          "type": "heal",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 294,
+          "max_hp": 294,
+          "source": "unknown"
+        },
+        {
+          "seq": 2,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-0",
+          "move_id": "earthquake",
+          "target_uid": "p2-5"
+        },
+        {
+          "seq": 3,
+          "type": "damage",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 235,
+          "max_hp": 294,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        },
+        {
+          "seq": 4,
+          "type": "damage",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 162,
+          "max_hp": 294,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 29,
+      "events": [
+        {
+          "seq": 0,
+          "type": "move",
+          "player": "p1",
+          "pokemon_uid": "p1-0",
+          "move_id": "protect",
+          "target_uid": "p1-0"
+        },
+        {
+          "seq": 1,
+          "type": "effect",
+          "effect_type": "singleturn",
+          "raw_parts": [
+            "-singleturn",
+            "p1a: Garganacl",
+            "Protect"
+          ]
+        },
+        {
+          "seq": 2,
+          "type": "move",
+          "player": "p2",
+          "pokemon_uid": "p2-5",
+          "move_id": "torchsong",
+          "target_uid": "p1-0"
+        },
+        {
+          "seq": 3,
+          "type": "effect",
+          "effect_type": "activate",
+          "raw_parts": [
+            "-activate",
+            "p1a: Garganacl",
+            "move: Protect"
+          ]
+        },
+        {
+          "seq": 4,
+          "type": "damage",
+          "target_uid": "p2-5",
+          "amount": null,
+          "hp_after": 89,
+          "max_hp": 294,
+          "effectiveness": "neutral",
+          "crit": false,
+          "source": "move"
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    },
+    {
+      "turn_number": 30,
+      "events": [
+        {
+          "seq": 0,
+          "type": "effect",
+          "effect_type": "message",
+          "raw_parts": [
+            "-message",
+            "xrrbm94 forfeited."
+          ]
+        }
+      ],
+      "state_after": {
+        "sides": {
+          "p1": {
+            "active": [],
+            "side_conditions": []
+          },
+          "p2": {
+            "active": [],
+            "side_conditions": []
+          }
+        },
+        "field": {
+          "global_conditions": [],
+          "weather": null
+        },
+        "clocks": {
+          "p1": 150,
+          "p2": 150
+        }
+      }
+    }
+  ],
+  "summary": {
+    "pokemon_used": {
+      "p1": [
+        "p1-0",
+        "p1-1",
+        "p1-2",
+        "p1-3",
+        "p1-4",
+        "p1-5"
+      ],
+      "p2": [
+        "p2-0",
+        "p2-1",
+        "p2-2",
+        "p2-3",
+        "p2-4",
+        "p2-5"
+      ]
+    },
+    "fainted_order": {
+      "p1": [],
+      "p2": []
+    },
+    "major_events": null
+  },
+  "integrity": {
+    "validated": true,
+    "issues": [],
+    "sha256_raw_log": "54e1432391f5c6c429a5796bdc7ab81d",
+    "generation_time_ms": 0
+  }
+}
