@@ -12,16 +12,16 @@ def Most_Used_By(target: int, data: list[list[str]]) -> str:
                  If multiple values share the highest frequency, returns the
                  first one encountered.
         """
-    Nosferatu = 0
-    Splash = ""
+    count_total = 0
+    move = ""
     LotsOfCounters = {}
-    for fabric in data:
-        LotsOfCounters[fabric[target]] = LotsOfCounters.get(fabric[target], 0) + 1
-    for item, count in LotsOfCounters.items():
-        if count > Nosferatu:
-            Nosferatu = count
-            Splash = item
-    return Splash
+    for row in data:
+        LotsOfCounters[row[target]] = LotsOfCounters.get(row[target], 0) + 1
+    for item, counter in LotsOfCounters.items():
+        if count_total < counter:
+            count_total = counter
+            move = item
+    return move
 
 # The purpose of this function is to determine which pokemon does the most clicking of moves
 def Most_Active_Pokemon(data: list[list[str]]) -> str:
